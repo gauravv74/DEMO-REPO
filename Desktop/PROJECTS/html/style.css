@@ -1,0 +1,60 @@
+    p{
+        color: blue;
+    }
+    #DIV1{
+        
+        height: 80px;
+        width: 700px;
+        margin-bottom: 10px;
+        
+    }
+    #DIV2{
+        background-color: gray;
+        height: 300px;
+        width: 700px;
+        margin-bottom: 10px;
+    }
+    #DIV3{
+        
+        height: 250px;
+        width: 700px;
+        margin-bottom: 10px;
+    }
+    #DIV4{
+        background-color: gray;
+        height: 100px;
+        width: 700px;
+    }
+    #div11{
+        background-color: gray;
+        height: 80px;
+        width: 400px;
+        float: left;
+
+
+    }
+    #div12{
+        background-color: gray;
+        height: 80px;
+        width: 290px;
+        float: right;
+
+    }
+    #div31{
+        background-color: gray;
+        height: 250px;
+        width: 345px;
+        float: left;
+
+    }
+    #div32{
+        background-color: gray;
+        height: 250px;
+        width: 345px;
+        float: right;
+
+    }
+    .wrapper{
+        width: 700px;
+        margin: 0% auto;
+    }
